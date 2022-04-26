@@ -1,0 +1,87 @@
+.topper{
+    background-color: #1F2937;
+    color: white;
+    padding: 30px;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.head-content{
+    display: flex;
+    padding: 30px;
+}
+.big-title{
+    font-size: 48px;
+    font-style: bold;
+    color: #F9FAF8;
+}
+.sub-title{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+button{
+    background-color: #3882F6;
+}
+.dark-diver{
+    background-color: grey;
+    padding: 20px;
+    margin: 53px;
+    width: 500px;
+}
+.menu-btns{
+    margin-right: 60px;
+}
+.img-holder{
+
+}
+.holder-title{
+    font-size: 36px;
+    font-style: bold;
+    color: #1F2937;
+    text-align: center;
+}
+.section-holder{
+    display: flex ;
+    justify-content: center;
+}
+.section{
+    height: 90px;
+    width: 80px;
+    border: 2px solid #3882F6;
+    margin: 40px;
+    border-radius: 8px;
+}
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    padding: 80px;
+    text-align: center;
+}
+.externer{
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    color: #F9FAF8;
+    width: 1000px;
+    margin-left: 150px;
+}
+.ext-title{
+    font-style: bold;
+    font-size: 18px;
+}
+.ext-div{
+    margin: 30px;
+    padding: 10px;
+}
+.footer{
+    background-color: #1F2937;
+    height: 40px;
+}
+.footer p{
+    text-align: center;
+    color:#F9FAF8;
+}
